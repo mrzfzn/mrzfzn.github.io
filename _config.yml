@@ -1,0 +1,34 @@
+###############################################################################
+# Jekyll Configuration
+highlighter: rouge
+markdown: kramdown
+permalink: /:title.html
+#paginate: 5
+port: 3000
+safe: true
+language: 'en-uk'
+plugins: [jekyll-feed]
+
+###############################################################################
+# Page Personal Details
+url: http://adepreis.github.io/
+baseurl: /
+author: Mirza Fauzan Khan
+title: Mirza Fauzan Khan | Welcome to my homepage
+description: Personal Landing Page
+avatar: mirza.jpg
+
+# Contacts
+email: mirzafauzan27@gmail.com
+
+# Upon Request for Phone, Skype, Hangouts, etc.
+urequest: Upon request
+
+# Social Usernames for Github, Gitlab
+username: mrzfzn
+
+# Social Usernames for LinkedIn
+li-username: mirza-fauzan-khan
+
+# Google Analytics
+#google_analytics: UA-47728743-1
